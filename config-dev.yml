@@ -1,4 +1,4 @@
 spring:
   application:
     name:  cloud-config-client
-self: 2233
+self: 22334455
